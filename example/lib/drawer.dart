@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map_marker_popup_example/widget_between_popups_and_markers_page.dart';
 
 import 'basic_example_page.dart';
-import 'full_example_page.dart';
 import 'popup_outside_of_map_page.dart';
 import 'selected_marker_builder_page.dart';
 
@@ -40,12 +39,6 @@ Drawer buildDrawer(BuildContext context, String currentRoute) {
           context,
           const Text('Basic Example'),
           BasicExamplePage.route,
-          currentRoute,
-        ),
-        _buildMenuItem(
-          context,
-          const Text('Full Example'),
-          FullExamplePage.route,
           currentRoute,
         ),
         _buildMenuItem(

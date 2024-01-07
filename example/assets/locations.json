@@ -1,0 +1,58 @@
+[
+  {
+    "location": {
+      "latitude": 41.7476,
+      "longitude": -74.8314
+    },
+    "image_urls": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg",
+      "https://example.com/image3.jpg"
+    ],
+    "map_url": "https://www.google.com/maps?q=41.7476,-74.8314",
+    "website_urls": [
+      "https://example.com/website1",
+      "https://example.com/website2"
+    ],
+    "text": "This is a place in Sullivan County, NY.",
+    "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "text3": "Curabitur cursus semper leo, eget hendrerit justo..."
+  },
+  {
+    "location": {
+      "latitude": 41.6156,
+      "longitude": -74.7452
+    },
+    "image_urls": [
+      "https://example.com/image4.jpg",
+      "https://example.com/image5.jpg",
+      "https://example.com/image6.jpg"
+    ],
+    "map_url": "https://www.google.com/maps?q=41.6156,-74.7452",
+    "website_urls": [
+      "https://example.com/website3",
+      "https://example.com/website4",
+      "https://example.com/website5"
+    ],
+    "text": "This is another place in Sullivan County, NY.",
+    "text2": "Praesent euismod urna eget efficitur. Vestibulum at elit vel libero volutpat rhoncus...",
+    "text3": "Suspendisse potenti. Nullam blandit arcu in bibendum feugiat..."
+  },
+  {
+    "location": {
+      "latitude": 41.6719,
+      "longitude": -74.9865
+    },
+    "image_urls": [
+      "https://example.com/image7.jpg",
+      "https://example.com/image8.jpg"
+    ],
+    "map_url": "https://www.google.com/maps?q=41.6719,-74.9865",
+    "website_urls": [
+      "https://example.com/website6"
+    ],
+    "text": "Yet another place in Sullivan County, NY.",
+    "text2": "Vivamus in congue lorem, sed tristique dolor. Suspendisse et urna in tortor lacinia vestibulum...",
+    "text3": "Aliquam erat volutpat. Donec nec justo a justo pellentesque lacinia..."
+  }
+]

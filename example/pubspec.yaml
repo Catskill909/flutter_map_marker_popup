@@ -24,3 +24,6 @@ flutter:
     - family: AccurateMapIcon
       fonts:
         - asset: fonts/AccurateMapIcon.ttf
+  assets:
+    - assets/locations.json # Add this line to specify the asset
+
